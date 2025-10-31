@@ -1,0 +1,12 @@
+streamlit
+requests
+pandas
+plotly
+scikit-learn
+numpy
+fastapi
+uvicorn
+folium
+streamlit-folium
+reportlab
+pyngrok
